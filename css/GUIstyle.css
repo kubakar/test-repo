@@ -27,6 +27,9 @@ body {
     border: 5px solid black;
 }
 
+h1 {
+    text-decoration: overline;
+}
 
 html {
     background-color: var(--bg-color);
