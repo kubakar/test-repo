@@ -1,6 +1,6 @@
-function initElements() {
+function initElementsinitElements() {
     $("#qqq").click(function () {
-        $(this).hide();
+        $(this).hide(500);
     });
 }
 
