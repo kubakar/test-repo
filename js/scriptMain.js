@@ -42,5 +42,4 @@ setInterval(function () {
   getData();
 }, 1000);
 
-// online change
-// offline change
+// single comment
